@@ -21,7 +21,7 @@ if(url === "/users"){
     return res.end
 
 }
-if (url === '/message' && method === 'POST') {
+if (url === '/create-user' && method === 'POST') {
         //getting data from my request
         const body = [];
         req.on('data', (chunk) => {
