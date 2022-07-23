@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.admin__heading{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.users__heading{
+    font-size: 2.5rem;
+    font-style: italic;
+}
